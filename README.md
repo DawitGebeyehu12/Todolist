@@ -25,12 +25,12 @@ Installation
 
 2. Navigate to the project folder:
 
-                    cd todo-list-app
+               cd todo-list-app
    
 4. Install the dependencies:
 
-                    npm install
+               npm install
 5. Start the development server:
 
-                      npm start
+               npm start
 The app will be available at http://localhost:3000.
