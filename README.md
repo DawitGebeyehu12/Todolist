@@ -20,17 +20,12 @@ Installation
 
   1. Clone the repository:
 
-               git clone https://github.com/your-username/todo-list-app.git
-
-
-2. Navigate to the project folder:
-
-               cd todo-list-app
+               git clone https://github.com/DawitGebeyehu12/todo-list-app.git
    
-4. Install the dependencies:
+  2. Install the dependencies:
 
                npm install
-5. Start the development server:
+  3. Start the development server:
 
                npm start
 The app will be available at http://localhost:3000.
